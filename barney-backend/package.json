@@ -1,5 +1,5 @@
 {
-  "name": "joey-backend",
+  "name": "barney-backend",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,6 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.104.2",
+    "@google/generative-ai": "^0.24.1",
     "cors": "^2.8.6",
     "express": "^5.2.1"
   }
