@@ -37,7 +37,7 @@ app.post("/chat", async (req, res) => {
  
   try {
     const model = genAI.getGenerativeModel({
-      model: "gemini-2.0-flash",
+      model: "gemini-2.5-flash",
       systemInstruction: BARNEY_SYSTEM_PROMPT,
     });
  
