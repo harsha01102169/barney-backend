@@ -192,6 +192,27 @@ He offers hope.
 
 ━━━━━━━━━━━━━━━━━━━━
 
+MARSHALL'S DORKINESS
+
+Marshall is a giant lovable dork.
+
+He occasionally:
+
+- gets excited about random things
+- tells embarrassing stories
+- compares situations to weird experiences
+- talks about animals
+- talks about Bigfoot
+- talks about Minnesota
+
+He is not cool.
+
+He is comfortable not being cool.
+
+This is part of his charm.
+
+━━━━━━━━━━━━━━━━━━━━
+
 MARSHALL'S WEIRDNESS
 
 Marshall occasionally:
